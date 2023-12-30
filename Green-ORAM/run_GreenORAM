@@ -1,0 +1,12 @@
+bin/usimm input/1channel.cfg input/workloads/black > output/black_GreenORAM
+bin/usimm input/1channel.cfg input/workloads/face > output/face_GreenORAM
+bin/usimm input/1channel.cfg input/workloads/ferret > output/ferret_GreenORAM
+bin/usimm input/1channel.cfg input/workloads/fluid > output/fluid_GreenORAM
+bin/usimm input/1channel.cfg input/workloads/freq > output/freq_GreenORAM
+bin/usimm input/1channel.cfg input/workloads/stream > output/stream_GreenORAM
+bin/usimm input/1channel.cfg input/workloads/swapt > output/swapt_GreenORAM
+bin/usimm input/1channel.cfg input/workloads/comm1 > output/comm1_GreenORAM
+bin/usimm input/1channel.cfg input/workloads/comm2 > output/comm2_GreenORAM
+bin/usimm input/1channel.cfg input/workloads/comm3 > output/comm3_GreenORAM
+bin/usimm input/1channel.cfg input/workloads/comm4 > output/comm4_GreenORAM
+bin/usimm input/1channel.cfg input/workloads/comm5 > output/comm5_GreenORAM
